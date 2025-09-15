@@ -1,3 +1,9 @@
+# Python Screening Task 2: Write a Prompt for an AI Debugging Assistant
+
+## Prompt:
+
+
+
 **Explanation of Design Choices:**
 
 **Why worded this way?**
